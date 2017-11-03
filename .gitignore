@@ -1,0 +1,5 @@
+ssh/*.pem
+terraform.tfvars
+terraform.tfstate*
+.terraform
+.idea*
